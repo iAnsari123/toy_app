@@ -1,3 +1,3 @@
 numpy
 pandas
-sckit-learn
+scikit-learn
